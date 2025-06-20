@@ -1,0 +1,15 @@
+.field{
+    position: relative;
+    padding-bottom: 30px; 
+}
+
+.user__search-error {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 24px;
+    margin-top: 25px;
+    font-weight: bold;
+    font-size: 18px;
+    color: #9F0013;
+}
